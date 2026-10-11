@@ -1,4 +1,4 @@
-# Sujal Chetan Parmar — SOC Analyst Portfolio
+# Sujal Chetan Parmar - SOC Analyst Portfolio
 
 B.Tech Computer Science (Cyber Security, IoT and Blockchain Technology) | REVA University, Bengaluru
 
